@@ -3,7 +3,7 @@ package ctf;
 public class vault3 {
 
 	public static void main(String[] args) {
-		String s = "jU5t_a_sna_3lpm16g84c_u_4_m0r846";
+		String s = "jU5t_a_sna_3lpm12g94c_u_4_m7ra41";
 		
         char[] buffer = new char[32];
         int i;
